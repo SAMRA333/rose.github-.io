@@ -1,0 +1,44 @@
+section{
+
+       padding: 5%;
+       
+}
+.nav{
+
+       background-color: beige;
+}
+
+
+       
+.sam{
+
+       font-family: 'Josefin Sans', sans-serif;
+}
+.ok{
+
+       background-color:rgb(255,192,203)
+}
+.row{
+
+
+}
+.col{
+
+       border-radius: 5%;
+}
+
+.footer{
+
+
+       position: fixed;
+         left: 0;
+         bottom: 0;
+         
+         width: 100%;
+         background-color:lightpink;
+         color: white;
+         text-align: center;}
+    a{
+
+       
+    }
